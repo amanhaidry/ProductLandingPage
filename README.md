@@ -40,6 +40,6 @@ Here are some screenshots of the project:
 - Icons and images sourced from external resources.
 - Fonts provided by [Google Fonts](https://fonts.google.com/).
 
-## License
+## Deployed Project Link
 
-This project is open-source and available under the MIT License.
+You can view live project here : [Bestill Live](https://amanhaidry.github.io/ProductLandingPage/)
